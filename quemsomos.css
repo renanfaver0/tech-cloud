@@ -1,0 +1,14 @@
+/* Texto quem somos */
+
+.texto-sobre {
+    text-align: center;
+    font-size: 20px;
+    border-style: dotted;
+}
+
+/* Imagem prédio empresa */
+
+.img-predio {
+    text-align: center;
+    padding: 2px;
+}
